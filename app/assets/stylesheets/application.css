@@ -24,10 +24,10 @@
    border-bottom: 2px solid;
    font: small-caps 40px/40px "Times New Roman", serif;
    color: #282;
-   text-align: center;
+   text-align: left;
 
    img {
-     position: absolute;
+     position: static;
      top: 0;
      left: 0;
      width: 192px;
